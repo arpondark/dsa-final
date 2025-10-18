@@ -1,0 +1,6 @@
+set __compat_layer=runasinvoker
+
+start filename.exe
+
+gpedit.msc
+gpupdate /force
